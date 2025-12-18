@@ -1,1 +1,1 @@
-var testStep = 1
+var testStep = 1;
